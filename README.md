@@ -8,6 +8,7 @@ Game
 
 ## You can follow me on:
 [Youtube](https://www.youtube.com/@16X16PixelCatStudio)
+[Instagram](https://www.instagram.com/16x16pixelcat/)
 <!--
 **16x16pixelcat/16X16PIxelCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
