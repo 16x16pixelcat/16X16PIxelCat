@@ -1,5 +1,5 @@
 # Hi I am pixel
-I am a... well just a person who want to learn how to code currently I am learning how to code games, webdevolopmemt and manimations sometimes
+I am a... well just a person who want to learn how to code currently I am learning how to code games, apps, ~webdevelopment~ and manimations sometimes
 
 ## My projects
 
