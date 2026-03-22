@@ -1,6 +1,8 @@
 # Hi I am pixel
 I am a... well just a person who want to learn how to code currently I am learning how to code games, apps, ~webdevelopment~ and manimations sometimes
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My projects
 
 https://github.com/16X16PixelCat-Studio/My-Projects
