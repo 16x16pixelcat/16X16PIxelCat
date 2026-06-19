@@ -13,6 +13,8 @@ https://github.com/16X16PixelCat-Studio/My-Projects
 [Instagram](https://www.instagram.com/16x16pixelcat/)
 
 [Twitch](https://www.twitch.tv/16x16pixelcat)
+
+[whatsapp blog](https://whatsapp.com/channel/0029Vb86zrP6RGJPprMXll12)
 <!--
 **16x16pixelcat/16X16PIxelCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
