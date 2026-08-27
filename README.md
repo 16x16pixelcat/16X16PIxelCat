@@ -1,11 +1,4 @@
-# Hi I am pixel
-I am a... well just a person who want to learn how to code currently I am learning how to code games, apps, ~webdevelopment~ and manimations sometimes
-
 ![Pixel's GitHub stats](https://github-readme-stats.vercel.app/api?username=16x16pixelcat&show_icons=true&theme=highcontrast)
-
-## My projects
-
-https://github.com/16X16PixelCat-Studio/My-Projects
 
 ## You can follow me on:
 [Youtube](https://www.youtube.com/@16X16PixelCatStudio)
