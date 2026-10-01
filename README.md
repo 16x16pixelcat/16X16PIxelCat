@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=47&pause=1000&width=435&lines=Hi+I+Loff+Cats)](https://git.io/typing-svg)
+
 ![Pixel's GitHub stats](https://github-readme-stats.vercel.app/api?username=16x16pixelcat&show_icons=true&theme=highcontrast)
 
 ## You can follow me on:
